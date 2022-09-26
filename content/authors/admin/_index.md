@@ -35,4 +35,4 @@ highlight_name: true
 ---
 Hi, I' a student of  Food and Nutritional Science at  Macau University of Science and Technology. My research interests include Food Technology, Food safe law and Food Nutrition. Feel free to get to know me in my page!
 
-Download  my CV at the mnu bar!
+Download  my CV at the menu bar!
