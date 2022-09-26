@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: State Key Laboratory of Food Science and Technology, Jiangnan University
     company_url: ''
-    location: California
+    location: Wuxi, Jiangsu Province
     date_start: '2022-06-15'
     date_end: '2022-08-05'
     description: |2-
