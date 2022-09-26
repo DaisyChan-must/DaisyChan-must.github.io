@@ -22,28 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: State Key Laboratory of Food Science and Technology, Jiangnan University
     company_url: ''
-    company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2022-06-15'
+    date_end: '2022-08-05'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Cooperated with U.S. Dairy Export Council on the R&D of high protein ice cream
+        * Conducted experiments using Milk Permeate to replace fat and sucrose in foods
+        * Cooperated with the enterprise Bai Cao Jian to develop high protein brittle tablets
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+
+  - title: Teaching Assistant of Faculty of Medicine
+    company: Macau University of Science and Technology
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Macau
+    date_start: '2022-02-15'
+    date_end: '2022-06-01'
+    description: Assisting Organic chemistry Experiment and Biochemistry and Molecular Biology Experiments
 
 design:
   columns: '2'
