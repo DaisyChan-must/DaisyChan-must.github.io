@@ -33,9 +33,9 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-" Control what you can, and accept what you can't"
+" Control what you can, and accept what you can't "
 
-Hi, I' a student of Food and Nutritional Science at Macau University of Science and Technology. My research interests include Food Technology, Food safe law and Food Nutrition. Feel free to get to know me in my page!
+Hi, I'm a student of Food and Nutritional Science at Macau University of Science and Technology. My research interests include Food Technology, Food safe law and Food Nutrition. Feel free to get to know me in my page!
 
 Label: Foodie; travel; dog lover;
 
