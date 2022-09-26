@@ -22,7 +22,7 @@ image:
 ---
 ## S﻿teps
 
-1. I﻿ choose a academic template from HUgo.
+1. I﻿ choose a academic template from Hugo.
 2. T﻿hen I made it a public website through GitHub.
 3. F﻿inally, I choose my own domain name through Netlify
 
