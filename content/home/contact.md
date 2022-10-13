@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: daisychan@gamil.com
+  email: daisychan.must@gmail.com
   phone: +853 68862386
   address:
     street: Avenida Wai Long
