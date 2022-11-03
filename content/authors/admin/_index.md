@@ -12,15 +12,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: https://github.com/DaisyChan-must/DaisyChan-must.github.io/blob/main/content/authors/admin/_index.md
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/%E5%A9%A7%E9%9B%AF-%E9%99%88-0585b01a7/
 organizations:
   - name: Macau University of Science and Technology
     url: https://www.must.edu.mo
