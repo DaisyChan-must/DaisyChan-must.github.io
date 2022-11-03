@@ -24,7 +24,7 @@ featured: true
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/-YHSwy6uqvk)"
   focal_point: ""
   preview_only: false
 date: 2022-09-26T01:32:32.456Z
