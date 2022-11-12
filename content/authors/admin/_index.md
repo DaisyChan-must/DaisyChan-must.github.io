@@ -14,7 +14,7 @@ social:
     link: /#contact
   - icon: github
     icon_pack: fab
-    link: https://github.com/DaisyChan-must/DaisyChan-must.github.io/blob/main/content/authors/admin/_index.md
+    link: https://github.com/DaisyChan-must?tab=repositories
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E5%A9%A7%E9%9B%AF-%E9%99%88-0585b01a7/
